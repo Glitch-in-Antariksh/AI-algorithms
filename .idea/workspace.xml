@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be4775f1-4671-4a05-b3f9-2752e4bc7576" name="Changes" comment="commit everything" />
+    <list default="true" id="be4775f1-4671-4a05-b3f9-2752e4bc7576" name="Changes" comment="bhyi i am dying what is this">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1766973984216</updated>
-      <workItem from="1766973985381" duration="1115000" />
+      <workItem from="1766973985381" duration="1905000" />
     </task>
     <task id="LOCAL-00001" summary="commit everything">
       <option name="closed" value="true" />
@@ -87,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766977844295</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="bhyi i am dying what is this">
+      <option name="closed" value="true" />
+      <created>1766978082424</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1766978082424</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +106,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit everything" />
     <MESSAGE value="Merge branch 'main' of https://github.com/Glitch-in-Antariksh/AI-algorithms&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="bhyi i am dying what is this" />
+    <option name="LAST_COMMIT_MESSAGE" value="bhyi i am dying what is this" />
   </component>
 </project>
