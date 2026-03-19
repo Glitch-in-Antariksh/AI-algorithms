@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="be4775f1-4671-4a05-b3f9-2752e4bc7576" name="Changes" comment="bhyi i am dying what is this">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Perceptron_linearclassification.py" beforeDir="false" afterPath="$PROJECT_DIR$/Perceptron_linearclassification.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +51,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.LINEAR_REGRESSION_LINE.executor": "Run",
     "Python.Linearregressionline_Numpyredo.executor": "Run",
+    "Python.Perceptron_linearclassification.executor": "Run",
     "Python.new_stuff.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
