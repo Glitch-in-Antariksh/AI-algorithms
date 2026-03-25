@@ -43,7 +43,7 @@ class Perceptron:
         return self.activation(linear_output)
 
 
-# 🚀 NOW run stuff here (outside class)
+#run
 model = Perceptron(lr=0.1, epochs=20)
 model.fit(X, y)
 
@@ -62,4 +62,3 @@ def plot_decision_boundary(X, y, model):
 
 
 plot_decision_boundary(X, y, model)
-
